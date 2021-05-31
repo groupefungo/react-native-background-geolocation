@@ -1,5 +1,3 @@
 include ':lib'
 include ':@groupefungo_react-native-background-geolocation-common'
 project(':@groupefungo_react-native-background-geolocation-common').projectDir = new File(rootProject.projectDir, './common')
-include ':@groupefungo_react-native-background-geolocation'
-project(':@groupefungo_react-native-background-geolocation').projectDir = new File(rootProject.projectDir, '../node_modules/@groupefungo/react-native-background-geolocation/android/lib')
