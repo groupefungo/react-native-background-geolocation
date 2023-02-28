@@ -1,5 +1,5 @@
 {
-  "name": "@groupefungo/react-native-background-geolocation",
+  "name": "@groupefungo/react-native-background-geolocation#porlierMobile",
   "version": "0.7.1",
   "description": "optimized background location tracking",
   "main": "./index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/groupefungo/react-native-background-geolocation.git"
+    "url": "git+https://github.com/groupefungo/react-native-background-geolocation.git#porlierMobile"
   },
   "keywords": [
     "gps",
