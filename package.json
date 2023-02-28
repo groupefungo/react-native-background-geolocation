@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/groupefungo/react-native-background-geolocation.git#porlierMobile"
+    "url": "git+https://github.com/groupefungo/react-native-background-geolocation.git"
   },
   "keywords": [
     "gps",
