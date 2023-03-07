@@ -1,6 +1,6 @@
 {
   "name": "@groupefungo/react-native-background-geolocation",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "optimized background location tracking",
   "main": "./index.js",
   "types": "./index.d.ts",
@@ -32,12 +32,6 @@
     "url": "https://github.com/groupefungo/react-native-background-geolocation/issues"
   },
   "homepage": "https://github.com/groupefungo/react-native-background-geolocation#readme",
-  "dependencies": {
-    "plist": "^3.0.1"
-  },
-  "peerDependencies": {
-    "react-native": ">=0.60.5"
-  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   }
